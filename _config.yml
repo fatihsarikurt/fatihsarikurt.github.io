@@ -1,8 +1,7 @@
-title: Fatih S. Sarikurt, Ph.D.
+title: Fatih S. Sarikurt
 description: >-
- Principal Engineer with a Ph.D. in Nuclear Engineering. Expertise in nuclear reactor design, high-fidelity CFD applications, multiphysics, and multiscale modeling of nuclear reactor systems.
-twitter_username: 
-github_username: 
+  Principal Engineer with a Ph.D. in Nuclear Engineering. Expertise in nuclear reactor design,
+  high-fidelity CFD applications, multiphysics, and multiscale modeling of nuclear reactor systems.
 minimal_mistakes_skin: default
 search: true
 
@@ -26,22 +25,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Fatih S. Sarikurt"
+  name   : "Fatih S. Sarikurt, Ph.D."
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Principal Engineer in Thermal Hydraulics with expertise in high-fidelity CFD applications, multiphysics, and multiscale modeling of nuclear reactor systems."
+  bio    : "Principal Engineer with a Ph.D. in Nuclear Engineering. Expertise in nuclear reactor design, high-fidelity CFD applications, multiphysics, and multiscale modeling of nuclear reactor systems."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fatih-sinan-sarikurt"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:fatihsarikurt@gmail.com"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=vaZyCtIAAAAJ&hl"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fatih-sinan-sarikurt"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=vaZyCtIAAAAJ&hl"
 
 defaults:
   # _posts
